@@ -1,0 +1,2 @@
+# AIGC
+AIGC using ChatGPT
